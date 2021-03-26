@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+"please enter your age"
+5
+1
+5
+v_age
+7
+0
+1
+8
+v_age <0
+7
+0
+1
+8
+v_age<12
+7
+0
+1
+8
+v_age<18
+7
+0
+1
+8
+v_age<60
+7
+0
+1
+8
+v_age<90
+4
+1
+36
+"congratulation you are a matusalen"
+13
+4
+1
+17
+"you are a elder"
+13
+13
+4
+1
+15
+"you are adult"
+13
+13
+4
+1
+16
+"you are a teen"
+13
+13
+4
+1
+15
+"you are a kid"
+13
+13
+4
+1
+26
+"error: your age is wrong"
+13
+1

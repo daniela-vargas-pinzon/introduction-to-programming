@@ -1,0 +1,100 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+99
+"this software was created by daniela vargas     to know a day of the week according to the number"
+4
+1
+35
+"please enter a day of the week in"
+5
+1
+5
+v_day
+7
+0
+1
+21
+v_day >7 or v_day < 1
+7
+0
+1
+9
+v_day = 1
+7
+0
+1
+9
+v_day = 2
+7
+0
+1
+9
+v_day = 3
+7
+0
+1
+9
+v_day = 4
+7
+0
+1
+7
+v_day=5
+7
+0
+1
+9
+v_day = 6
+4
+1
+17
+"today is sunday"
+13
+4
+1
+19
+"today is saturday"
+13
+13
+4
+1
+17
+"today is friday"
+13
+13
+4
+1
+18
+"today is tursday"
+13
+13
+4
+1
+20
+"today is wednesday"
+13
+13
+4
+1
+18
+"today is tursday"
+13
+13
+4
+1
+17
+"today is Monday"
+13
+13
+4
+1
+60
+"sorry this number does not correspond to a day of the week"
+13
+1
